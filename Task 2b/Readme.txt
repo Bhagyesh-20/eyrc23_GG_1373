@@ -69,7 +69,4 @@ We would like to acknowledge the following:
 
 This README file is part of our submission for Task 2B of the GeoGuide(GG) Theme (eYRC 2023-24).
 
-## Conclusion
-Working on Task 2B has provided valuable experience in deep learning and image classification. We've successfully built a model that can classify events caused by alien attacks, which has various practical applications in image analysis.
-
-Thank you for considering our submission!
+ 
